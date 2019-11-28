@@ -13,6 +13,15 @@ A few resources to get you started if this is your first Flutter project:
 - Run ```flutter doctor``` to check the dependencies for the app to build
 - Run command ```flutter run``` for serving the mobile app on your mobile/emulator
 
+## UI output in mobile
+<p float="left">
+<img src="https://github.com/nagaraja-bollu/flutter_first_app/blob/master/pics/login.jpeg" alt="Login" width="200" height="400">
+<img src="https://github.com/nagaraja-bollu/flutter_first_app/blob/master/pics/manage_products.jpeg" alt="manage" width="200" height="400">
+<img src="https://github.com/nagaraja-bollu/flutter_first_app/blob/master/pics/create_product.jpeg" alt="Create" width="200" height="400">
+<img src="https://github.com/nagaraja-bollu/flutter_first_app/blob/master/pics/list_products.jpeg" alt="List products" width="200" height="400">
+</p>
+
+
 
 ## References
 - [Dart Programming](https://dart.dev/)

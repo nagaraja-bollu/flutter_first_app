@@ -1,4 +1,4 @@
-# Flutter first project
+# Flutter - my first project
 
 This project is a starting point for a Flutter application.
 
